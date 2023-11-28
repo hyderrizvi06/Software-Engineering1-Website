@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(255, 0, 0);
+    margin-left: 500px;
+  }
+  
+  img {
+    /* color: rgb(255, 0, 0); */
+    /* margin-left: 500px; */
+    margin-top: 250px;
+  }
